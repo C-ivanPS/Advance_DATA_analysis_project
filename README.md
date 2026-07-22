@@ -28,7 +28,7 @@ Evaluate the proportional contribution of each category to an overall total—fo
 ### 5. Data Segmentation
 Group records into meaningful categories based on behavior, value, recency, frequency, geography, or other business rules. Segmentation makes it easier to tailor analysis and action to distinct groups.
 
-**Typical SQL techniques:** `CASE` expressions, CTEs, `NTILE()`, percentile logic, and multi-condition filters.
+**Typical SQL techniques:** `CASE` expressions, CTEs, percentile logic, and multi-condition filters.
 
 ### 6. Reporting
 Create clear, reusable datasets that communicate key findings to stakeholders. Reporting brings the preceding analyses together into consistent metric definitions and decision-ready outputs.
